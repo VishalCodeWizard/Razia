@@ -1,0 +1,27 @@
+body{
+    background-color: gray;
+}
+.card{
+    background-color: white;
+    width: 344px;
+    height: 444px;
+    border-radius: 7px;
+}
+.image{
+    padding: 0px;
+    border-radius: 7px;
+}
+.image img{
+    border-radius: 7px;
+}
+.content{
+    font-size: 13px;
+    padding: 13px;
+}
+.capsule span{
+border: 1px solid rgb(53, 53, 53);
+padding: 4px;
+}
+.capsule{
+    padding: 0 34px;
+}
